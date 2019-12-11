@@ -4,8 +4,8 @@
 --
 -- Create Date:   14:28:45 09/30/2019
 -- Design Name:   
--- Module Name:   E:/Display/testdisplay.vhd
--- Project Name:  Display
+-- Module Name:   Calculator.vhd
+-- Project Name:  Calculator
 -- Target Device:  
 -- Tool versions:  
 -- Description:   
